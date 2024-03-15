@@ -1,8 +1,0 @@
-c01.jpg - Oreo cupcake
-c02.jpg - Chocolate cupcake with sprinkles
-c03.jpg - Fruit cupcake
-c04.jpg	- Hazelnut cupcake
-c05.jpg - Strawberry cupcake
-c06.jpg - Pink cupcake
-c07.jpg - Rainbow cupcake
-
