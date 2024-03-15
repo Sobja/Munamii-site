@@ -1,0 +1,4 @@
+[
+{"id":1, "type": "cupcake", "img":"c01.jpg", "info":"Oreo cupcake", "price":3},
+{"id":2, "type": "cupcake","img":"c02.jpg", "info":"Chocolate cupcake with sprinkles", "price":2}
+]
